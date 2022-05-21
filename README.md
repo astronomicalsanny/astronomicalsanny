@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanny</h1>
+<h1 align="center">👋 I'm Sanny</h1>
 <h3 align="center">I do science and arts</h3>
 
 - 🔭 I’m currently working on **Astrophotonics**
