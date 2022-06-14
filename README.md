@@ -1,4 +1,4 @@
-<h1 align="center">👋 I'm Sanny</h1>
+<h1 align="center">👋 I'm Ahmed Sanny</h1>
 <h3 align="center">I do science and arts</h3>
 
 - 🔭 I’m currently working on **Astrophotonics**
@@ -12,7 +12,7 @@
 <a href="https://twitter.com/Ahmed_Sanny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaaaaaaaaaaaaaa" height="30" width="40" /></a>
 <a href="https://fb.com/theahmedsanny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aaaaaaaaaaaaa" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmed_sanny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaaaaaaaaaaaaa" height="30" width="40" /></a>
-<a href="https://medium.com/@astronomicalsanny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="aaaaaaaaaa" height="30" width="40" /></a>
+<a href="https://medium.com/@ahmedsanny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="aaaaaaaaaa" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/astronomicalsanny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aaaaaaaaaaaaaa" height="30" width="40" /></a>
 </p>
 
