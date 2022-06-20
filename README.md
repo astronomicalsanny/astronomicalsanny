@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Astrophotonics**
 
-- 👯 I’m looking to collaborate on **Research based projects**
+- 👯 I’m open to collaborate on **Research based projects**
 
 - 📫 How to reach me **meahmedsanny@gmail.com**
 
