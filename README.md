@@ -1,7 +1,7 @@
 <h1 align="center">👋 I'm Ahmed Sanny</h1>
 <h3 align="center">I do science and arts</h3>
 
-- 🔭 I’m currently working on **Astrophotonics**
+- 🔭 Research Area **Astro-Photonics** **Astronomical Instrumentation** **Optical Techniques (e.g., Interferometry, spectroscopy)** **Astrophysics**
 
 - 👯 I’m open to collaborate on **Research based projects**
 
@@ -20,3 +20,6 @@
 <a href="https://fb.com/theahmedsanny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aaaaaaaaaaaaa" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmed_sanny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaaaaaaaaaaaaa" height="30" width="40" /></a>
 <a href="https://medium.com/@ahmedsanny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="aaaaaaaaaa" height="30" width="40" /></a>
+<a href="https://sites.google.com/view/ahmedsanny/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="aaaaaaaaaa" height="30" width="40" /></a>
+
+
