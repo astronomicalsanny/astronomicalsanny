@@ -5,7 +5,7 @@
 
 - 👯 I’m open to collaborate on **Research based projects**
 
-- 📫 How to reach me **meahmedsanny@gmail.com**
+- 📫 How to reach me **astronomicalsanny@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
